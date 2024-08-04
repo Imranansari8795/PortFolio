@@ -1,6 +1,4 @@
 import React from "react";
-import java from "../../public/java.png";
-
 import tour from "../../public/tour.png"
 import realchat from "../../public/realchat.png"
 import gif from "../../public/Random-GIF-Generator.png"

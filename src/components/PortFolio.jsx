@@ -63,7 +63,8 @@ function PortFolio() {
     {
       id:8,
       image: wordtopdf,
-      github_link:"https://github.com/Imranansari8795/WordToPDF_Convertor"
+      github_link:"https://github.com/Imranansari8795/WordToPDF_Convertor",
+      name:"Word to PDF Convertor"
     }
   ];
   return (
